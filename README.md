@@ -1,5 +1,5 @@
 # doc-categorizer
-A University project to classify a document, or a set of documents in their corresponding category directory.
+This project was created as part of "Language Technology" subject in Computer Engineering & Informatics Department (CEID) of University of Patras. The essence of it was to classify a document, or a set of documents in their corresponding category directory.
 
 The uncategorized documents directory is called `UNCATEGORIZED`, and after the code runs, it becomes empty, with each of its documents being moved into their predicted category.
 
